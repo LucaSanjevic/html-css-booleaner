@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+.immaginedicopertina{
+    background-image:url("img/pattern.png");
+    background-repeat: repeat;
+    background-color:#0080FF;
+                    }
+
+.corpo{
+    width: 1200px;
+    height: 400px;
+    position: absolute;
+    left: 10%;
+                    }
+.Grigio{
+    color: gray;
+}
+.TheBooleaner{
+    color: blue;
+    display: inline;
+}
+.descrizionefoto {
+                  font-size: small;
+}
+.giallo{
+    background-color: yellow;
+    display: inline;
+}
+p{
+    display: inline;
+}
+ul{
+    margin-left: -20px;
+}
