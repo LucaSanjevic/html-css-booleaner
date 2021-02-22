@@ -34,7 +34,23 @@ p{
 ul{
     margin-left: -20px;
 }
-
+.primaesecondacolonna{
+    width: 300px;
+    margin-left: 0px;
+}
+.terzacolonna{
+    width: 500px;
+    margin-left: 0px;
+}
+.Azzurro{
+    background-color: #62adf9;
+    height: 50px;
+    margin-left: 0;
+}
+.Blu{
+    background-color: #0080FF;
+    margin-left: 0px;
+}
 .Monitor{
     position: relative;
 }
