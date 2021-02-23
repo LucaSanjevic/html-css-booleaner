@@ -4,15 +4,19 @@ body{
 }
 .immaginedicopertina{
     background-image:url("img/pattern.png");
-    background-repeat: repeat;
+    background-repeat: repeat-x;
     background-color:#0080FF;
+    height: 130px;
                     }
+    
+.Tim{
+    display: inline;
+}
 
 .corpo{
-    width: 1200px;
+    width:1200px;
+    margin: auto;
     height: 400px;
-    position: absolute;
-    left: 10%;
                     }
 .Grigio{
     color: gray;
@@ -36,21 +40,18 @@ ul{
 }
 .primaesecondacolonna{
     width: 300px;
-    margin-left: 0px;
 }
 .terzacolonna{
     width: 500px;
-    margin-left: 0px;
 }
 .Azzurro{
     background-color: #62adf9;
     height: 50px;
-    margin-left: 0;
 }
 .Blu{
     background-color: #0080FF;
-    margin-left: 0px;
 }
+
 .Monitor{
     position: relative;
 }
